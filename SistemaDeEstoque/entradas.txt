@@ -1,0 +1,339 @@
+Aqui estão 20 entradas de produtos e 10 entradas de fornecedores para serem adicionadas ao sistema de estoque:
+
+### 20 Entradas de Produtos:
+
+1. **Produto:**
+   - Código: `P001`
+   - Descrição: `Notebook Dell Inspiron`
+   - Categoria: `Eletrônicos`
+   - Quantidade: `50`
+   - Unidade: `Unidade`
+   - Preço: `3500.00`
+   - Fornecedor: `TechWorld`
+   - Data de Entrada: `2023-09-01`
+   - Data de Validade: `-`
+   - Localização: `A1`
+
+2. **Produto:**
+   - Código: `P002`
+   - Descrição: `Mouse Logitech M170`
+   - Categoria: `Acessórios`
+   - Quantidade: `200`
+   - Unidade: `Unidade`
+   - Preço: `45.00`
+   - Fornecedor: `LogiTech`
+   - Data de Entrada: `2023-09-05`
+   - Data de Validade: `-`
+   - Localização: `A2`
+
+3. **Produto:**
+   - Código: `P003`
+   - Descrição: `Teclado Mecânico Redragon`
+   - Categoria: `Acessórios`
+   - Quantidade: `150`
+   - Unidade: `Unidade`
+   - Preço: `220.00`
+   - Fornecedor: `PC World`
+   - Data de Entrada: `2023-09-10`
+   - Data de Validade: `-`
+   - Localização: `B1`
+
+4. **Produto:**
+   - Código: `P004`
+   - Descrição: `Monitor LG 24''`
+   - Categoria: `Eletrônicos`
+   - Quantidade: `80`
+   - Unidade: `Unidade`
+   - Preço: `720.00`
+   - Fornecedor: `ScreenTech`
+   - Data de Entrada: `2023-09-15`
+   - Data de Validade: `-`
+   - Localização: `B2`
+
+5. **Produto:**
+   - Código: `P005`
+   - Descrição: `Cabo HDMI 2.0`
+   - Categoria: `Acessórios`
+   - Quantidade: `300`
+   - Unidade: `Unidade`
+   - Preço: `25.00`
+   - Fornecedor: `CaboMania`
+   - Data de Entrada: `2023-09-20`
+   - Data de Validade: `-`
+   - Localização: `C1`
+
+6. **Produto:**
+   - Código: `P006`
+   - Descrição: `Smartphone Samsung Galaxy A52`
+   - Categoria: `Eletrônicos`
+   - Quantidade: `100`
+   - Unidade: `Unidade`
+   - Preço: `2300.00`
+   - Fornecedor: `MobileTech`
+   - Data de Entrada: `2023-09-25`
+   - Data de Validade: `-`
+   - Localização: `C2`
+
+7. **Produto:**
+   - Código: `P007`
+   - Descrição: `HD Externo Seagate 1TB`
+   - Categoria: `Armazenamento`
+   - Quantidade: `120`
+   - Unidade: `Unidade`
+   - Preço: `380.00`
+   - Fornecedor: `DataStorage`
+   - Data de Entrada: `2023-10-01`
+   - Data de Validade: `-`
+   - Localização: `D1`
+
+8. **Produto:**
+   - Código: `P008`
+   - Descrição: `SSD Kingston 240GB`
+   - Categoria: `Armazenamento`
+   - Quantidade: `200`
+   - Unidade: `Unidade`
+   - Preço: `150.00`
+   - Fornecedor: `DataTech`
+   - Data de Entrada: `2023-10-05`
+   - Data de Validade: `-`
+   - Localização: `D2`
+
+9. **Produto:**
+   - Código: `P009`
+   - Descrição: `Fonte Corsair 600W`
+   - Categoria: `Componentes`
+   - Quantidade: `80`
+   - Unidade: `Unidade`
+   - Preço: `450.00`
+   - Fornecedor: `PowerSupplies`
+   - Data de Entrada: `2023-10-10`
+   - Data de Validade: `-`
+   - Localização: `E1`
+
+10. **Produto:**
+    - Código: `P010`
+    - Descrição: `Placa Mãe ASUS B450`
+    - Categoria: `Componentes`
+    - Quantidade: `60`
+    - Unidade: `Unidade`
+    - Preço: `620.00`
+    - Fornecedor: `TechParts`
+    - Data de Entrada: `2023-10-12`
+    - Data de Validade: `-`
+    - Localização: `E2`
+
+11. **Produto:**
+    - Código: `P011`
+    - Descrição: `Memória RAM Corsair 8GB`
+    - Categoria: `Componentes`
+    - Quantidade: `150`
+    - Unidade: `Unidade`
+    - Preço: `280.00`
+    - Fornecedor: `MemoryWorld`
+    - Data de Entrada: `2023-10-15`
+    - Data de Validade: `-`
+    - Localização: `F1`
+
+12. **Produto:**
+    - Código: `P012`
+    - Descrição: `Roteador TP-Link 300Mbps`
+    - Categoria: `Redes`
+    - Quantidade: `100`
+    - Unidade: `Unidade`
+    - Preço: `120.00`
+    - Fornecedor: `NetWork`
+    - Data de Entrada: `2023-10-20`
+    - Data de Validade: `-`
+    - Localização: `F2`
+
+13. **Produto:**
+    - Código: `P013`
+    - Descrição: `Cabo de Rede Cat6`
+    - Categoria: `Redes`
+    - Quantidade: `500`
+    - Unidade: `Unidade`
+    - Preço: `3.50`
+    - Fornecedor: `CaboMania`
+    - Data de Entrada: `2023-10-22`
+    - Data de Validade: `-`
+    - Localização: `G1`
+
+14. **Produto:**
+    - Código: `P014`
+    - Descrição: `Câmera de Segurança Intelbras`
+    - Categoria: `Segurança`
+    - Quantidade: `80`
+    - Unidade: `Unidade`
+    - Preço: `450.00`
+    - Fornecedor: `SafeTech`
+    - Data de Entrada: `2023-10-25`
+    - Data de Validade: `-`
+    - Localização: `G2`
+
+15. **Produto:**
+    - Código: `P015`
+    - Descrição: `Microfone Blue Yeti`
+    - Categoria: `Acessórios`
+    - Quantidade: `60`
+    - Unidade: `Unidade`
+    - Preço: `720.00`
+    - Fornecedor: `AudioTech`
+    - Data de Entrada: `2023-11-01`
+    - Data de Validade: `-`
+    - Localização: `H1`
+
+16. **Produto:**
+    - Código: `P016`
+    - Descrição: `Webcam Logitech C920`
+    - Categoria: `Acessórios`
+    - Quantidade: `90`
+    - Unidade: `Unidade`
+    - Preço: `350.00`
+    - Fornecedor: `LogiTech`
+    - Data de Entrada: `2023-11-05`
+    - Data de Validade: `-`
+    - Localização: `H2`
+
+17. **Produto:**
+    - Código: `P017`
+    - Descrição: `Impressora HP LaserJet`
+    - Categoria: `Impressoras`
+    - Quantidade: `40`
+    - Unidade: `Unidade`
+    - Preço: `980.00`
+    - Fornecedor: `PrintWorld`
+    - Data de Entrada: `2023-11-10`
+    - Data de Validade: `-`
+    - Localização: `I1`
+
+18. **Produto:**
+    - Código: `P018`
+    - Descrição: `Toner HP 85A`
+    - Categoria: `Acessórios`
+    - Quantidade: `200`
+    - Unidade: `Unidade`
+    - Preço: `180.00`
+    - Fornecedor: `PrintSupplies`
+    - Data de Entrada: `2023-11-15`
+    - Data de Validade: `-`
+    - Localização: `I2`
+
+19. **Produto:**
+    - Código: `P019`
+    - Descrição: `Cadeira Gamer DXRacer`
+    - Categoria: `Móveis`
+    - Quantidade: `30`
+    - Unidade: `Unidade`
+    - Preço: `1500.00`
+    - Fornecedor: `GameStore`
+    - Data de Entrada: `2023-11-20`
+    - Data de Validade: `-`
+    - Localização: `J1`
+
+20. **Produto:**
+    - Código: `P020`
+    - Descrição: `Headset Razer Kraken`
+    - Categoria: `A
+
+cessórios`
+    - Quantidade: `120`
+    - Unidade: `Unidade`
+    - Preço: `360.00`
+    - Fornecedor: `GameWorld`
+    - Data de Entrada: `2023-11-25`
+    - Data de Validade: `-`
+    - Localização: `J2`
+
+### 10 Entradas de Fornecedores:
+
+1. **Fornecedor:** 
+   - Nome: `TechWorld`
+   - CNPJ/CPF: `45.123.456/0001-78`
+   - Telefone: `11-9999-9999`
+   - E-mail: `contato@techworld.com.br`
+   - Site: `www.techworld.com.br`
+   - Avaliação: `5`
+   - Descontos: `10%`
+
+2. **Fornecedor:** 
+   - Nome: `LogiTech`
+   - CNPJ/CPF: `30.654.321/0001-98`
+   - Telefone: `11-8888-8888`
+   - E-mail: `suporte@logitech.com`
+   - Site: `www.logitech.com.br`
+   - Avaliação: `4.8`
+   - Descontos: `8%`
+
+3. **Fornecedor:** 
+   - Nome: `PC World`
+   - CNPJ/CPF: `35.987.654/0001-56`
+   - Telefone: `21-7777-7777`
+   - E-mail: `vendas@pcworld.com`
+   - Site: `www.pcworld.com.br`
+   - Avaliação: `4.5`
+   - Descontos: `5%`
+
+4. **Fornecedor:** 
+   - Nome: `ScreenTech`
+   - CNPJ/CPF: `40.852.963/0001-44`
+   - Telefone: `41-6666-6666`
+   - E-mail: `info@screentech.com.br`
+   - Site: `www.screentech.com.br`
+   - Avaliação: `4.7`
+   - Descontos: `12%`
+
+5. **Fornecedor:** 
+   - Nome: `CaboMania`
+   - CNPJ/CPF: `45.789.123/0001-66`
+   - Telefone: `31-5555-5555`
+   - E-mail: `contato@cabomania.com.br`
+   - Site: `www.cabomania.com.br`
+   - Avaliação: `4.6`
+   - Descontos: `7%`
+
+6. **Fornecedor:** 
+   - Nome: `MobileTech`
+   - CNPJ/CPF: `50.963.258/0001-77`
+   - Telefone: `71-4444-4444`
+   - E-mail: `vendas@mobiletech.com`
+   - Site: `www.mobiletech.com.br`
+   - Avaliação: `5`
+   - Descontos: `10%`
+
+7. **Fornecedor:** 
+   - Nome: `DataStorage`
+   - CNPJ/CPF: `60.741.852/0001-12`
+   - Telefone: `11-3333-3333`
+   - E-mail: `info@datastorage.com`
+   - Site: `www.datastorage.com.br`
+   - Avaliação: `4.9`
+   - Descontos: `15%`
+
+8. **Fornecedor:** 
+   - Nome: `DataTech`
+   - CNPJ/CPF: `65.789.456/0001-99`
+   - Telefone: `61-2222-2222`
+   - E-mail: `suporte@datatech.com.br`
+   - Site: `www.datatech.com.br`
+   - Avaliação: `4.4`
+   - Descontos: `8%`
+
+9. **Fornecedor:** 
+   - Nome: `PowerSupplies`
+   - CNPJ/CPF: `70.123.789/0001-00`
+   - Telefone: `71-1111-1111`
+   - E-mail: `info@powersupplies.com`
+   - Site: `www.powersupplies.com.br`
+   - Avaliação: `4.8`
+   - Descontos: `10%`
+
+10. **Fornecedor:** 
+   - Nome: `SafeTech`
+   - CNPJ/CPF: `75.963.852/0001-31`
+   - Telefone: `51-0000-0000`
+   - E-mail: `contato@safetech.com.br`
+   - Site: `www.safetech.com.br`
+   - Avaliação: `4.9`
+   - Descontos: `12%`
+
+Esses dados podem ser usados no sistema para simular o funcionamento e gerenciamento de produtos e fornecedores.
